@@ -1,0 +1,8 @@
+[core]
+    remote = yandex_disk
+['remote "my_gdrive_remote"']
+    url = gdrive://1Y-Wh2JAtbEhSQ-ntzTT54kjg9eZmet7d
+['remote "yandex_disk"']
+    url = webdavs://webdav.yandex.ru
+    user = tsirenovmergen
+    password = foafezxsqoetpwny
